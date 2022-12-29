@@ -1,0 +1,1 @@
+kubectl port-forward --namespace default svc/mongo-mongodb 27017:27017
