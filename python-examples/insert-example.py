@@ -1,6 +1,7 @@
 from client import collection
+from example import create_new_document
 
-document = {"hello": "test"}
+document = create_new_document("world")
 
 result = collection.insert_one(document)
 

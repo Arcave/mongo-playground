@@ -1,0 +1,13 @@
+{
+    "type": "config",
+    "some_field1": "some_value1",
+    "some_field2": 1,
+    "some_field3": true,
+    "some_field4": {
+        "some_sub_1": "value",
+        "some_sub_2": 3
+    },
+    "some_field5": "some_value11",
+    "some_field6": 15,
+    "some_field7": "2020-01-01T00:00:00.000Z"
+}
